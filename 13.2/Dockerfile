@@ -10,8 +10,8 @@ FROM cimg/base:2023.07
 
 LABEL maintainer="Community & Partner Engineering Team <community-partner@circleci.com>"
 
-ENV PG_VER=14.6
-ENV PG_MAJOR=14
+ENV PG_VER=13.2
+ENV PG_MAJOR=13
 ENV POSTGRES_HOST_AUTH_METHOD=trust
 ENV PATH /usr/lib/postgresql/$PG_MAJOR/bin:$PATH
 ENV PGDATA /var/lib/postgresql/data
