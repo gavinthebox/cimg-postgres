@@ -12,7 +12,7 @@
 
 ***This image is designed to supercede the legacy CircleCI PostgreSQL image, `circleci/postgres`.***
 
-`cimg/postgres` is a Docker image created by CircleCI with continuous integration builds in mind. Making another change
+`cimg/postgres` is a Docker image created by CircleCI with continuous integration builds in mind.
 
 ## Support Policy
 
